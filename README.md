@@ -9,3 +9,5 @@ Tenho um grande interesse em aprender novas tecnologias e resolver problemas atr
 ## 💻 Tech Stack:
 - HTML | CSS
 - MySQL
+-ruby-
+-php-

@@ -10,4 +10,4 @@ Tenho um grande interesse em aprender novas tecnologias e resolver problemas atr
 - HTML | CSS
 - MySQL
 - 
-  - RUBY-
+- RUBY-
